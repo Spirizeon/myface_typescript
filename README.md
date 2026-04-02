@@ -6,7 +6,7 @@ To get setup, download this code, and then run the following commands in the roo
 
 ```shell
 npm install
-npm run migrate
+npm run migrated
 npm run seed
 ```
 
